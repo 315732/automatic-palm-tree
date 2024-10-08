@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "2655d38dcf569b03",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b47e100e7d6f3b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ab94683d71e9d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/rooms/Crack the hash.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "068e28ba7b50de25",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c673b226772e45f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "187e8fba573b33e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "685c878d9696e302",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "651f55fb8667122e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b987fd93cc72e87",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1c7714e73b8e383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a39776b200c82c4e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TryHackMe/rooms/Crack the hash.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9542e1872fb1830b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TryHackMe/rooms/Crack the hash.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4e843d964bc233f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4c1dd6ef0388edd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TryHackMe/rooms/Crack the hash.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5ab94683d71e9d71",
+  "lastOpenFiles": [
+    "Captura desde 2024-10-08 19-46-11.png",
+    "Captura desde 2024-10-08 19-31-21.png",
+    "Captura desde 2024-10-08 19-30-06.png",
+    "Captura desde 2024-10-08 19-29-03.png",
+    "Captura desde 2024-10-08 19-27-55.png",
+    "Captura desde 2024-10-08 19-22-45.png",
+    "Captura desde 2024-10-08 19-20-39.png",
+    "TryHackMe/rooms/images/Captura desde 2024-10-08 17-17-07.png",
+    "TryHackMe/rooms/images/Captura desde 2024-10-08 17-14-10.png",
+    "TryHackMe/rooms/images/Captura desde 2024-10-08 17-12-15.png",
+    "TryHackMe/rooms/images/Captura desde 2024-10-08 17-08-17.png",
+    "TryHackMe/TryHackMe.md",
+    "README.md",
+    "rooms/\"Crack.md",
+    "TryHackMe/rooms/Crack the hash.md",
+    "\"rooms/Crack.md",
+    "\"rooms",
+    "rooms/Crack.md",
+    "rooms",
+    "TryHackMe/rooms",
+    "TryHackMe/rooms/images",
+    "TryHackMe"
+  ]
+}
