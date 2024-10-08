@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "TryHackMe/rooms/Crack the hash.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8b987fd93cc72e87",
@@ -148,8 +149,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5ab94683d71e9d71",
+  "active": "187e8fba573b33e2",
   "lastOpenFiles": [
+    "TryHackMe/TryHackMe.md",
+    "README.md",
+    "TryHackMe/rooms/Crack the hash.md",
     "TryHackMe/rooms/images/Captura desde 2024-10-08 19-46-11.png",
     "TryHackMe/rooms/images/Captura desde 2024-10-08 19-31-21.png",
     "TryHackMe/rooms/images/Captura desde 2024-10-08 19-30-06.png",
@@ -160,11 +164,7 @@
     "Captura desde 2024-10-08 19-46-11.png",
     "Captura desde 2024-10-08 19-31-21.png",
     "Captura desde 2024-10-08 19-30-06.png",
-    "Captura desde 2024-10-08 19-29-03.png",
-    "TryHackMe/TryHackMe.md",
-    "README.md",
     "rooms/\"Crack.md",
-    "TryHackMe/rooms/Crack the hash.md",
     "\"rooms/Crack.md",
     "\"rooms",
     "rooms/Crack.md",
