@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b47e100e7d6f3b8",
+        "id": "f5214a67b5cbc5b0",
         "type": "tabs",
         "children": [
           {
-            "id": "5ab94683d71e9d71",
+            "id": "47cc07b2385245a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/rooms/Crack the hash.md",
+                "file": "TryHackMe/rooms/Investigating Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/rooms/Crack the hash.md",
+                "file": "TryHackMe/rooms/Investigating Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/rooms/Crack the hash.md",
+                "file": "TryHackMe/rooms/Investigating Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/rooms/Crack the hash.md"
+                "file": "TryHackMe/rooms/Investigating Windows.md"
               }
             }
           }
@@ -145,15 +145,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "187e8fba573b33e2",
+  "active": "47cc07b2385245a1",
   "lastOpenFiles": [
+    "Captura desde 2024-10-09 07-00-37.png",
+    "Captura desde 2024-10-09 06-27-29.png",
+    "Captura desde 2024-10-09 06-24-39.png",
+    "Captura desde 2024-10-09 06-15-21.png",
+    "TryHackMe/rooms/Crack the hash.md",
+    "TryHackMe/rooms/Investigating Windows.md",
     "TryHackMe/TryHackMe.md",
     "README.md",
-    "TryHackMe/rooms/Crack the hash.md",
     "TryHackMe/rooms/images/Captura desde 2024-10-08 19-46-11.png",
     "TryHackMe/rooms/images/Captura desde 2024-10-08 19-31-21.png",
     "TryHackMe/rooms/images/Captura desde 2024-10-08 19-30-06.png",
@@ -161,9 +165,6 @@
     "TryHackMe/rooms/images/Captura desde 2024-10-08 19-27-55.png",
     "TryHackMe/rooms/images/Captura desde 2024-10-08 19-22-45.png",
     "TryHackMe/rooms/images/Captura desde 2024-10-08 19-20-39.png",
-    "Captura desde 2024-10-08 19-46-11.png",
-    "Captura desde 2024-10-08 19-31-21.png",
-    "Captura desde 2024-10-08 19-30-06.png",
     "rooms/\"Crack.md",
     "\"rooms/Crack.md",
     "\"rooms",
