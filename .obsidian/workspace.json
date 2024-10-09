@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8b987fd93cc72e87",
@@ -147,8 +148,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47cc07b2385245a1",
+  "active": "187e8fba573b33e2",
   "lastOpenFiles": [
+    "TryHackMe/rooms/images/Captura desde 2024-10-09 07-00-37.png",
+    "TryHackMe/rooms/images/Captura desde 2024-10-09 06-27-29.png",
+    "TryHackMe/rooms/images/Captura desde 2024-10-09 06-24-39.png",
+    "TryHackMe/rooms/images/Captura desde 2024-10-09 06-15-21.png",
     "Captura desde 2024-10-09 07-00-37.png",
     "Captura desde 2024-10-09 06-27-29.png",
     "Captura desde 2024-10-09 06-24-39.png",
@@ -160,10 +165,6 @@
     "TryHackMe/rooms/images/Captura desde 2024-10-08 19-46-11.png",
     "TryHackMe/rooms/images/Captura desde 2024-10-08 19-31-21.png",
     "TryHackMe/rooms/images/Captura desde 2024-10-08 19-30-06.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-08 19-29-03.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-08 19-27-55.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-08 19-22-45.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-08 19-20-39.png",
     "rooms/\"Crack.md",
     "\"rooms/Crack.md",
     "\"rooms",
