@@ -40,31 +40,41 @@ What two accounts had administrative privileges (other than the Administrator us
 
 Answer format: username1, username2
 
-**flag: ``**
+![[Captura desde 2024-10-10 10-00-42.png]]
+
+**flag: `Jenny Guest`**
 
 ---
 
 Whats the name of the scheduled task that is malicous.
 
-**flag: ``**
+![[Captura desde 2024-10-10 10-02-56.png]]
+
+**flag: `Clean file system`**
 
 ---
 
 What file was the task trying to run daily?
 
-**flag: ``**
+![[Captura desde 2024-10-10 10-04-50.png]]
+
+**flag: `nc.ps1`**
 
 ---
 
 What port did this file listen locally for?
 
-**flag: ``**
+![[Captura desde 2024-10-10 10-06-11.png]]
+
+**flag: `1348`**
 
 ---
 
 When did Jenny last logon?
 
-**flag: ``**
+![[Captura desde 2024-10-10 10-08-18.png]]
+
+**flag: `never`**
 
 ---
 
@@ -72,13 +82,17 @@ At what date did the compromise take place?
 
 Answer format: MM/DD/YYYY
 
-**flag: ``**
+![[Captura desde 2024-10-10 10-10-06.png]]
+
+**flag: `03/02/2019`**
 
 --- 
 
 During the compromise, at what time did Windows first assign special privileges to a new logon?
 
 Answer format: MM/DD/YYYY HH:MM:SS AM/PM
+
+
 
 **flag: ``**
 
