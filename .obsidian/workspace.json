@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/rooms/Ignite.md",
+                "file": "TryHackMe/rooms/Basic Pentesting.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8b987fd93cc72e87",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/rooms/Ignite.md",
+                "file": "TryHackMe/rooms/Basic Pentesting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/rooms/Ignite.md",
+                "file": "TryHackMe/rooms/Basic Pentesting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/rooms/Ignite.md"
+                "file": "TryHackMe/rooms/Basic Pentesting.md"
               }
             }
           }
@@ -149,24 +150,25 @@
   },
   "active": "0420f25166f391e9",
   "lastOpenFiles": [
-    "Captura desde 2024-10-12 03-53-50.png",
-    "Captura desde 2024-10-12 03-50-51.png",
-    "Captura desde 2024-10-12 03-35-44.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-12 04-07-02.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-12 04-03-05.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-12 04-02-40.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-12 04-01-41.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-12 03-56-05.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-12 03-53-50.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-12 03-50-51.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-12 03-39-59.png",
-    "TryHackMe/rooms/Ignite.md",
+    "TryHackMe/rooms/images/Captura desde 2024-10-15 04-53-55.png",
+    "TryHackMe/rooms/images/Captura desde 2024-10-15 04-46-57.png",
+    "TryHackMe/rooms/images/Captura desde 2024-10-15 04-19-45 1.png",
+    "TryHackMe/rooms/images/Captura desde 2024-10-15 04-19-45.png",
+    "TryHackMe/rooms/images/Captura desde 2024-10-15 04-15-36.png",
+    "TryHackMe/rooms/images/Captura desde 2024-10-15 03-37-52.png",
+    "TryHackMe/rooms/images/Captura desde 2024-10-14 04-03-29.png",
+    "TryHackMe/rooms/images/Captura desde 2024-10-14 04-00-48.png",
+    "Captura desde 2024-10-15 04-53-55.png",
+    "Captura desde 2024-10-15 04-19-45 1.png",
+    "Captura desde 2024-10-15 04-46-57.png",
+    "TryHackMe/rooms/Investigating Windows.md",
+    "TryHackMe/rooms/Basic Pentesting.md",
     "TryHackMe/TryHackMe.md",
+    "TryHackMe/rooms/Ignite.md",
     "README.md",
     "TryHackMe/rooms/c4ptur3-th3-fl4g.md",
     "TryHackMe/c4ptur3-th3-fl4g.md",
     "TryHackMe/rooms/TryHackMe.md",
-    "TryHackMe/rooms/Investigating Windows.md",
     "TryHackMe/rooms/OhSINT.md",
     "c4ptur3-th3-fl4g.md",
     "TryHackMe/rooms/Crack the hash.md",
