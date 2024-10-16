@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f49f91baa4589140",
+        "id": "3b303fcb5f6793b9",
         "type": "tabs",
         "children": [
           {
-            "id": "0420f25166f391e9",
+            "id": "f0963d5412fd2c69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/rooms/Basic Pentesting.md",
-                "mode": "preview",
+                "file": "Intro to Defensive Security.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/rooms/Basic Pentesting.md",
+                "file": "Intro to Defensive Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/rooms/Basic Pentesting.md",
+                "file": "Intro to Defensive Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/rooms/Basic Pentesting.md"
+                "file": "Intro to Defensive Security.md"
               }
             }
           }
@@ -148,8 +148,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0420f25166f391e9",
+  "active": "f0963d5412fd2c69",
   "lastOpenFiles": [
+    "Intro to Defensive Security.md",
+    "TryHackMe/rooms/Intro to Offensive Security.md",
+    "TryHackMe/rooms/images/Captura desde 2024-10-16 04-26-32.png",
+    "TryHackMe/rooms/images/Captura desde 2024-10-16 04-25-48.png",
+    "TryHackMe/TryHackMe.md",
+    "TryHackMe/rooms/Basic Pentesting.md",
     "TryHackMe/rooms/images/Captura desde 2024-10-15 04-53-55.png",
     "TryHackMe/rooms/images/Captura desde 2024-10-15 04-46-57.png",
     "TryHackMe/rooms/images/Captura desde 2024-10-15 04-19-45 1.png",
@@ -158,12 +164,7 @@
     "TryHackMe/rooms/images/Captura desde 2024-10-15 03-37-52.png",
     "TryHackMe/rooms/images/Captura desde 2024-10-14 04-03-29.png",
     "TryHackMe/rooms/images/Captura desde 2024-10-14 04-00-48.png",
-    "Captura desde 2024-10-15 04-53-55.png",
-    "Captura desde 2024-10-15 04-19-45 1.png",
-    "Captura desde 2024-10-15 04-46-57.png",
     "TryHackMe/rooms/Investigating Windows.md",
-    "TryHackMe/rooms/Basic Pentesting.md",
-    "TryHackMe/TryHackMe.md",
     "TryHackMe/rooms/Ignite.md",
     "README.md",
     "TryHackMe/rooms/c4ptur3-th3-fl4g.md",
