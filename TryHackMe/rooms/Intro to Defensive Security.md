@@ -96,3 +96,42 @@ Malware analysis aims to learn about such malicious programs using various means
 1. Static analysis works by inspecting the malicious program without running it. Usually, this requires solid knowledge of assembly language (processor’s instruction set, i.e., computer’s fundamental instructions).
 2. Dynamic analysis works by running the malware in a controlled environment and monitoring its activities. It lets you observe how the malware behaves when running.
 
+---
+
+What would you call a team of cyber security professionals that monitors a network and its systems for malicious events?
+
+**flag: `Security Operations Center`**
+
+---
+
+What does DFIR stand for?
+
+**flag: `Digital Forensics and Incident Response`**
+
+---
+
+Which kind of malware requires the user to pay money to regain access to their files?
+
+**flag: `ransomware`**
+
+--- 
+
+What would be a typical task that you will be doing as a security analyst? Click on “View Site” to follow along until you get the flag. (If this is your first time obtaining flags, a flag can be seen as a string of text you receive once you accomplish a task. An example flag is `FLAG{WORDS_AND_MORE}`.)
+
+You are part of a _Security Operations Center_ (SOC) responsible for protecting a bank. This bank’s SOC uses a _Security Information and Event Management_ (SIEM) system. A SIEM gathers security-related information and events from various sources and presents them via one system. For instance, you would be notified if there is a failed login attempt or a login attempt from an unexpected geographic location. Moreover, with the advent of machine learning, a SIEM might detect unusual behavior, such as a user logging in at 3 AM when he usually logs in only during work hours.  
+
+In this exercise, we will interact with a SIEM to monitor the different events on our network and systems in real-time. Some of the events are typical and harmless; others might require further intervention from us. Find the event flagged in red, take note of it, and click on it for further inspection.
+
+Next, we want to learn more about the suspicious activity or event. The suspicious event might have been triggered by an event, such as a local user, a local computer, or a remote IP address. To send and receive postal mail, you need a physical address; similarly, you need an IP address to send and receive data over the Internet. An IP address is a logical address that allows you to communicate over the Internet. We inspect the cause of the trigger to confirm whether the event is indeed malicious. If it is malicious, we need to take due action, such as reporting to someone else in the SOC and blocking the IP address.
+
+![[Captura desde 2024-10-17 04-35-20.png]]
+
+![[Captura desde 2024-10-17 04-37-22.png]]
+
+![[Captura desde 2024-10-17 04-36-46.png]]
+
+![[Captura desde 2024-10-17 04-38-21.png]]
+
+![[Captura desde 2024-10-17 04-39-31.png]]
+
+![[Captura desde 2024-10-17 04-40-00.png]]

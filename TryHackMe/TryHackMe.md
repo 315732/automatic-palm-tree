@@ -5,3 +5,4 @@
 [[Ignite]]
 [[Basic Pentesting]]
 [[Intro to Offensive Security]]
+[[Intro to Defensive Security]]
