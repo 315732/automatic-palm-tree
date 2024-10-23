@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "etc/List of book.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8b987fd93cc72e87",
@@ -165,9 +166,9 @@
   },
   "active": "0f2dd8e2b86fb877",
   "lastOpenFiles": [
-    "TryHackMe/rooms/Careers in Cyber.md",
-    "etc/List of book.md",
     "etc/list/A Wild Sheep Chase.md",
+    "etc/List of book.md",
+    "TryHackMe/rooms/Careers in Cyber.md",
     "etc/list",
     "etc",
     "etc/list/Освенцим. Нацисты и окончательное решение еврейского вопроса.md",
