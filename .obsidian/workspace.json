@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8b79c82427962d7d",
+        "id": "a6550d5e8785f5e9",
         "type": "tabs",
         "children": [
           {
-            "id": "0f2dd8e2b86fb877",
+            "id": "18abc2cfc6f5b40e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/rooms/Careers in Cyber.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Careers in Cyber"
+              "title": "New tab"
             }
           }
         ]
@@ -163,8 +159,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f2dd8e2b86fb877",
+  "active": "18abc2cfc6f5b40e",
   "lastOpenFiles": [
+    "TryHackMe/rooms/Careers in Cyber.md",
+    "TryHackMe/rooms/What is Networking?.md",
     "TryHackMe/TryHackMe.md",
     "TryHackMe/rooms/Networking Concepts.md",
     "TryHackMe/rooms/CyberChef The Basics.md",
@@ -176,7 +174,6 @@
     "etc/list/Hamlet.md",
     "etc/list/Переоценка ценностей.md",
     "etc/list/A Wild Sheep Chase.md",
-    "TryHackMe/rooms/Careers in Cyber.md",
     "etc/list",
     "etc",
     "etc/list/Освенцим. Нацисты и окончательное решение еврейского вопроса.md",
@@ -203,7 +200,6 @@
     "rooms/\"Crack.md",
     "\"rooms/Crack.md",
     "\"rooms",
-    "rooms/Crack.md",
     "rooms",
     "TryHackMe/rooms",
     "TryHackMe/rooms/images",
