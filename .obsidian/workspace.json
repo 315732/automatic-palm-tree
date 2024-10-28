@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etc/List of book.md",
+                "file": "TryHackMe/rooms/Wreath.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List of book"
+              "title": "Wreath"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8b987fd93cc72e87",
@@ -165,12 +166,18 @@
   },
   "active": "18abc2cfc6f5b40e",
   "lastOpenFiles": [
-    "etc/list/The Art of Happiness.md",
+    "TryHackMe/rooms/images/Screenshot from 2024-10-27 20-13-19.png",
+    "TryHackMe/rooms/images/Screenshot from 2024-10-27 19-50-10.png",
+    "TryHackMe/rooms/images/Screenshot from 2024-10-27 19-43-42.png",
+    "TryHackMe/TryHackMe.md",
+    "TryHackMe/rooms/Wreath.md",
+    "TryHackMe/rooms/Windows Command Line.md",
+    "TryHackMe/rooms/Search Skills.md",
+    "TryHackMe/rooms/What is Networking?.md",
     "etc/List of book.md",
+    "etc/list/The Art of Happiness.md",
     "etc/list/Переоценка ценностей.md",
     "TryHackMe/rooms/Careers in Cyber.md",
-    "TryHackMe/rooms/What is Networking?.md",
-    "TryHackMe/TryHackMe.md",
     "TryHackMe/rooms/Networking Concepts.md",
     "TryHackMe/rooms/CyberChef The Basics.md",
     "TryHackMe/rooms/images/Screenshot from 2024-10-23 23-56-29.png",
@@ -190,8 +197,6 @@
     "TryHackMe/rooms/images/Captura desde 2024-10-17 04-39-31.png",
     "TryHackMe/rooms/images/Captura desde 2024-10-17 04-38-21.png",
     "TryHackMe/rooms/images/Captura desde 2024-10-17 04-37-22.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-17 04-36-46.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-17 04-35-20.png",
     "TryHackMe/rooms/Intro to Offensive Security.md",
     "TryHackMe/rooms/Basic Pentesting.md",
     "TryHackMe/rooms/Investigating Windows.md",
@@ -199,10 +204,6 @@
     "TryHackMe/rooms/c4ptur3-th3-fl4g.md",
     "TryHackMe/c4ptur3-th3-fl4g.md",
     "TryHackMe/rooms/TryHackMe.md",
-    "TryHackMe/rooms/OhSINT.md",
-    "c4ptur3-th3-fl4g.md",
-    "TryHackMe/rooms/Crack the hash.md",
-    "rooms/\"Crack.md",
     "\"rooms",
     "rooms",
     "TryHackMe/rooms",
