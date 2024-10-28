@@ -13,3 +13,8 @@
 [[Search Skills]]
 [[Windows Command Line]]
 [[Wreath]]
+[[XSS]]
+[[Python Basics]]
+[[HTTP in Detail]]
+[[How Websites Work]]
+[[JavaScript Basics]]

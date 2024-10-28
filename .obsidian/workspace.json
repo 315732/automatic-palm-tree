@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/rooms/Wreath.md",
+                "file": "etc/list/Переоценка ценностей.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wreath"
+              "title": "Переоценка ценностей"
             }
           }
         ]
@@ -166,17 +166,17 @@
   },
   "active": "18abc2cfc6f5b40e",
   "lastOpenFiles": [
+    "TryHackMe/TryHackMe.md",
+    "etc/list/Переоценка ценностей.md",
+    "etc/List of book.md",
+    "TryHackMe/rooms/Wreath.md",
     "TryHackMe/rooms/images/Screenshot from 2024-10-27 20-13-19.png",
     "TryHackMe/rooms/images/Screenshot from 2024-10-27 19-50-10.png",
     "TryHackMe/rooms/images/Screenshot from 2024-10-27 19-43-42.png",
-    "TryHackMe/TryHackMe.md",
-    "TryHackMe/rooms/Wreath.md",
     "TryHackMe/rooms/Windows Command Line.md",
     "TryHackMe/rooms/Search Skills.md",
     "TryHackMe/rooms/What is Networking?.md",
-    "etc/List of book.md",
     "etc/list/The Art of Happiness.md",
-    "etc/list/Переоценка ценностей.md",
     "TryHackMe/rooms/Careers in Cyber.md",
     "TryHackMe/rooms/Networking Concepts.md",
     "TryHackMe/rooms/CyberChef The Basics.md",
@@ -196,7 +196,6 @@
     "TryHackMe/rooms/images/Captura desde 2024-10-17 04-40-00.png",
     "TryHackMe/rooms/images/Captura desde 2024-10-17 04-39-31.png",
     "TryHackMe/rooms/images/Captura desde 2024-10-17 04-38-21.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-17 04-37-22.png",
     "TryHackMe/rooms/Intro to Offensive Security.md",
     "TryHackMe/rooms/Basic Pentesting.md",
     "TryHackMe/rooms/Investigating Windows.md",
