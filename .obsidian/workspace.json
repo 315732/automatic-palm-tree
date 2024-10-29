@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etc/List of book.md",
+                "file": "TryHackMe/rooms/Cryptography Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List of book"
+              "title": "Cryptography Basics"
             }
           }
         ]
@@ -166,9 +166,11 @@
   },
   "active": "18abc2cfc6f5b40e",
   "lastOpenFiles": [
-    "etc/list/Переоценка ценностей.md",
     "TryHackMe/TryHackMe.md",
+    "TryHackMe/rooms/Cryptography Basics.md",
+    "TryHackMe/rooms/Networking Concepts.md",
     "etc/List of book.md",
+    "etc/list/Переоценка ценностей.md",
     "TryHackMe/rooms/Wreath.md",
     "TryHackMe/rooms/images/Screenshot from 2024-10-27 20-13-19.png",
     "TryHackMe/rooms/images/Screenshot from 2024-10-27 19-50-10.png",
@@ -178,7 +180,6 @@
     "TryHackMe/rooms/What is Networking?.md",
     "etc/list/The Art of Happiness.md",
     "TryHackMe/rooms/Careers in Cyber.md",
-    "TryHackMe/rooms/Networking Concepts.md",
     "TryHackMe/rooms/CyberChef The Basics.md",
     "TryHackMe/rooms/images/Screenshot from 2024-10-23 23-56-29.png",
     "TryHackMe/rooms/images/Screenshot from 2024-10-23 23-52-35.png",

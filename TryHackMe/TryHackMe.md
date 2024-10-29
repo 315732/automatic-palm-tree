@@ -18,3 +18,4 @@
 [[HTTP in Detail]]
 [[How Websites Work]]
 [[JavaScript Basics]]
+[[Cryptography Basics]]
