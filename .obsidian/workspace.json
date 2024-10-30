@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a6550d5e8785f5e9",
+        "id": "6c16f65e078fcfa6",
         "type": "tabs",
         "children": [
           {
-            "id": "18abc2cfc6f5b40e",
+            "id": "8c4bcccde9090fa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etc/list/Переоценка ценностей.md",
+                "file": "etc/List of book.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Переоценка ценностей"
+              "title": "List of book"
             }
           }
         ]
@@ -164,13 +164,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18abc2cfc6f5b40e",
+  "active": "8c4bcccde9090fa8",
   "lastOpenFiles": [
     "TryHackMe/rooms/Cryptography Basics.md",
     "TryHackMe/TryHackMe.md",
+    "etc/list/Переоценка ценностей.md",
+    "etc/list/images/Jean-Bernard_Restout_-_Diogenes_Asking_for_Alms.jpg",
+    "Untitled.md",
+    "etc/list/images",
+    "Monsiau_-_Alexandre_et_Diogène.jpg",
+    "etc/list/images/Diogenes_looking_for_a_man_-_attributed_to_JHW_Tischbein.jpg",
     "TryHackMe/rooms/Networking Concepts.md",
     "etc/List of book.md",
-    "etc/list/Переоценка ценностей.md",
     "TryHackMe/rooms/Wreath.md",
     "TryHackMe/rooms/images/Screenshot from 2024-10-27 20-13-19.png",
     "TryHackMe/rooms/images/Screenshot from 2024-10-27 19-50-10.png",
@@ -194,16 +199,11 @@
     "Careers in Cyber.md",
     "TryHackMe/rooms/Intro to Defensive Security.md",
     "Intro to Defensive Security.md",
-    "TryHackMe/rooms/images/Captura desde 2024-10-17 04-40-00.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-17 04-39-31.png",
-    "TryHackMe/rooms/images/Captura desde 2024-10-17 04-38-21.png",
     "TryHackMe/rooms/Intro to Offensive Security.md",
     "TryHackMe/rooms/Basic Pentesting.md",
     "TryHackMe/rooms/Investigating Windows.md",
     "TryHackMe/rooms/Ignite.md",
     "TryHackMe/rooms/c4ptur3-th3-fl4g.md",
-    "TryHackMe/c4ptur3-th3-fl4g.md",
-    "TryHackMe/rooms/TryHackMe.md",
     "\"rooms",
     "rooms",
     "TryHackMe/rooms",

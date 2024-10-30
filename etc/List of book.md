@@ -13,7 +13,7 @@ https://315732.gitbook.io/315732-blog
 | Brave New World                                                  | Aldous Huxley       | Book       | Completed         |
 | Crime And Punishment                                             | Fyodor Dostoevsky   | Book       | Completed         |
 | Beyond Good And Evil                                             | Friedrich Nietzsche | Book       | Completed         |
-| Государство                                                      | Платон              | Аудиокнига | 1:00              |
+| Государство                                                      | Платон              | Аудиокнига | 1:55              |
 |                                                                  |                     |            |                   |
 |                                                                  |                     |            |                   |
 |                                                                  |                     |            |                   |
