@@ -14,7 +14,7 @@ https://315732.gitbook.io/315732-blog
 | Crime And Punishment                                             | Fyodor Dostoevsky   | Book       | Completed         |
 | Beyond Good And Evil                                             | Friedrich Nietzsche | Book       | Completed         |
 | Государство                                                      | Платон              | Аудиокнига | 1:55              |
-|                                                                  |                     |            |                   |
+| Beginning Rust; Get Started with Rust 2021 Edition (2nd ed.)     | Carlo Milanesi      | Book       | 42                |
 |                                                                  |                     |            |                   |
 |                                                                  |                     |            |                   |
 |                                                                  |                     |            |                   |
