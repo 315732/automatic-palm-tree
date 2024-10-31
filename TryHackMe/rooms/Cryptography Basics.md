@@ -35,7 +35,7 @@ In the same way that handling payment card details requires complying with PCI D
 
 What is the standard required for handling credit card information?
 
-**flag: ``**
+**flag: `PCI DSS`**
 
 ---
 Let’s start with an illustration before introducing the key terms. We begin with the plaintext that we want to encrypt. The plaintext is the readable data; it can be anything from a simple “hello”, a cat photo, credit card information, or medical health records. From a cryptography perspective, these are all “plaintext” messages waiting to be encrypted. The plaintext is passed through the encryption function along with a proper key; the encryption function returns a ciphertext. The encryption function is part of the cipher; a cipher is an algorithm to convert a plaintext into a ciphertext and vice versa.
@@ -57,11 +57,11 @@ We have just introduced several new terms, and we need to learn them to understa
 
 What do you call the encrypted plaintext?
 
-**flag: ``**
+**flag: `ciphertext`**
 
 What do you call the process that returns the plaintext?
 
-**flag: ``**
+**flag: `decryption`**
 
 ---
 
@@ -97,7 +97,7 @@ You would come across many more historical ciphers in movies and cryptography bo
 
 Knowing that `XRPCTCRGNEI` was encrypted using Caesar Cipher, what is the original plaintext?
 
-**flag: ``**
+**flag: `ICANENCRYPT`**
 
 ---
 
@@ -139,11 +139,11 @@ We will visit various asymmetric encryption ciphers in the next room. For now, t
 
 Should you trust DES? (Yea/Nay)
 
-**flag: ``**
+**flag: `Nay`**
 
 When was AES adopted as an encryption standard?
 
-**flag: ``**
+**flag: `2001`**
 
 ---
 
@@ -190,15 +190,15 @@ The modulo operation always returns a non-negative result less than the divisor.
 
 What’s 1001 ⊕ 1010?
 
-**flag: ``**
+**flag: `0011`**
 
 What’s 118613842%9091?
 
-**flag: ``**
+**flag: `3565`**
 
 What’s 60%12?
 
-**flag: ``**
+**flag: `0`**
 
 ---
 

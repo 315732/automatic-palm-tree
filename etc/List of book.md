@@ -13,7 +13,7 @@ https://315732.gitbook.io/315732-blog
 | Brave New World                                                  | Aldous Huxley                       | Book       | Completed         |
 | Crime And Punishment                                             | Fyodor Dostoevsky                   | Book       | Completed         |
 | Beyond Good And Evil                                             | Friedrich Nietzsche                 | Book       | Completed         |
-| Государство                                                      | Платон                              | Аудиокнига | 1:55              |
+| Государство                                                      | Платон                              | Аудиокнига | 3:00              |
 | Beginning Rust; Get Started with Rust 2021 Edition (2nd ed.)     | Carlo Milanesi                      | Book       | 42                |
 | Искусство любить                                                 | Эрих Фромм                          | Книга      | Завершенный       |
 | Здоровое общество                                                | Эрих Фромм                          | Книга      | Завершенный       |
