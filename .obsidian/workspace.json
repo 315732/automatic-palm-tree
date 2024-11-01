@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etc/List of book.md",
+                "file": "TryHackMe/TryHackMe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List of book"
+              "title": "TryHackMe"
             }
           }
         ]
@@ -166,11 +166,12 @@
   },
   "active": "3e56d8e35760e1a1",
   "lastOpenFiles": [
-    "TryHackMe/rooms/How Websites Work.md",
+    "How to use TryHackMe.md",
     "TryHackMe/TryHackMe.md",
+    "etc/List of book.md",
+    "TryHackMe/rooms/How Websites Work.md",
     "TryHackMe/rooms/JavaScript Basics.md",
     "TryHackMe/rooms/XSS.md",
-    "etc/List of book.md",
     "TryHackMe/rooms/Cryptography Basics.md",
     "etc/list/Переоценка ценностей.md",
     "etc/list/images/Jean-Bernard_Restout_-_Diogenes_Asking_for_Alms.jpg",
@@ -204,7 +205,6 @@
     "Intro to Defensive Security.md",
     "TryHackMe/rooms/Intro to Offensive Security.md",
     "TryHackMe/rooms/Basic Pentesting.md",
-    "TryHackMe/rooms/Investigating Windows.md",
     "\"rooms",
     "rooms",
     "TryHackMe/rooms",
