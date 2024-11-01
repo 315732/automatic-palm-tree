@@ -14,7 +14,7 @@ https://315732.gitbook.io/315732-blog
 | Crime And Punishment                                             | Fyodor Dostoevsky                   | Book       | Completed         |
 | Beyond Good And Evil                                             | Friedrich Nietzsche                 | Book       | Completed         |
 | Государство                                                      | Платон                              | Аудиокнига | 3:30              |
-| Beginning Rust; Get Started with Rust 2021 Edition (2nd ed.)     | Carlo Milanesi                      | Book       | 42                |
+| Beginning Rust; Get Started with Rust 2021 Edition (2nd ed.)     | Carlo Milanesi                      | Book       | 59                |
 | Искусство любить                                                 | Эрих Фромм                          | Книга      | Завершенный       |
 | Здоровое общество                                                | Эрих Фромм                          | Книга      | Завершенный       |
 | Так говорил Заратустра                                           | Фридрих Ницше                       | Книга      | Завершенный       |
