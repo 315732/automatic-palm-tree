@@ -2,13 +2,13 @@ https://315732.gitbook.io/315732-blog
 
 | Book                                                             | Author                              | Type       | Page or Timestamp |
 | ---------------------------------------------------------------- | ----------------------------------- | ---------- | ----------------- |
-| Государство                                                      | Платон                              | Аудиокнига | 4:00              |
+| Государство                                                      | Платон                              | Аудиокнига | 6:00              |
 | Beginning Rust; Get Started with Rust 2021 Edition (2nd ed.)     | Carlo Milanesi                      | Book       | 59                |
 | [[Освенцим. Нацисты и окончательное решение еврейского вопроса]] | Лоуренс Рис                         | Книга      | 255               |
 | [[The Art of Happiness]]                                         | Epicurus                            | Book       | 32                |
 | [[A Wild Sheep Chase]]                                           | Haruki Murakami                     | Audiobook  | Completed         |
-| The Undiscovered Self                                            | Carl Jung                           | Audiobook  | Completed         |
 | [[Hamlet]]                                                       | William Shakespeare                 | Audiobook  | Completed         |
+| The Undiscovered Self                                            | Carl Jung                           | Audiobook  | Completed         |
 | Self-Made Man                                                    | Norah Vincent                       | Book       | Completed         |
 | 1984                                                             | George Orwell                       | Book       | Completed         |
 | The Road to Wigan Pier                                           | George Orwell                       | Book       | Completed         |
