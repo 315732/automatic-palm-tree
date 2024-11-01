@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etc/List of book.md",
+                "file": "TryHackMe/TryHackMe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List of book"
+              "title": "TryHackMe"
             }
           }
         ]
@@ -168,10 +168,16 @@
   "lastOpenFiles": [
     "etc/List of book.md",
     "TryHackMe/TryHackMe.md",
-    "How to use TryHackMe.md",
+    "TryHackMe/rooms/Google Dorking.md",
+    "TryHackMe/rooms/Welcome.md",
+    "TryHackMe/rooms/Defensive Security Intro.md",
+    "TryHackMe/rooms/Offensive Security Intro.md",
+    "TryHackMe/rooms/OhSINT.md",
+    "TryHackMe/rooms/Crack the hash.md",
+    "TryHackMe/rooms/XSS.md",
+    "TryHackMe/rooms/How to use TryHackMe.md",
     "TryHackMe/rooms/How Websites Work.md",
     "TryHackMe/rooms/JavaScript Basics.md",
-    "TryHackMe/rooms/XSS.md",
     "TryHackMe/rooms/Cryptography Basics.md",
     "etc/list/Переоценка ценностей.md",
     "etc/list/images/Jean-Bernard_Restout_-_Diogenes_Asking_for_Alms.jpg",
@@ -199,12 +205,6 @@
     "etc/list",
     "etc",
     "etc/list/Освенцим. Нацисты и окончательное решение еврейского вопроса.md",
-    "README.md",
-    "Careers in Cyber.md",
-    "TryHackMe/rooms/Intro to Defensive Security.md",
-    "Intro to Defensive Security.md",
-    "TryHackMe/rooms/Intro to Offensive Security.md",
-    "TryHackMe/rooms/Basic Pentesting.md",
     "\"rooms",
     "rooms",
     "TryHackMe/rooms",
