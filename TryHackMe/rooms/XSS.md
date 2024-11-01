@@ -793,4 +793,4 @@ The purpose of this room is to give you a more in-depth understanding of the und
 
 This room used a fictional static site to demonstrate one of the XSS vulnerabilities. Which XSS type was that?
 
-**flag: ``**
+**flag: `DOM-based XSS`**
