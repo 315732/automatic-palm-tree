@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/TryHackMe.md",
+                "file": "TryHackMe/rooms/How Websites Work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TryHackMe"
+              "title": "How Websites Work"
             }
           }
         ]
@@ -166,8 +166,10 @@
   },
   "active": "8fd60516efc98508",
   "lastOpenFiles": [
-    "etc/List of book.md",
     "TryHackMe/TryHackMe.md",
+    "HTTP in Detail.md",
+    "Python Basics.md",
+    "etc/List of book.md",
     "TryHackMe/rooms/Google Dorking.md",
     "TryHackMe/rooms/Welcome.md",
     "TryHackMe/rooms/Defensive Security Intro.md",
@@ -201,10 +203,8 @@
     "TryHackMe/rooms/images/Screenshot from 2024-10-23 23-50-54.png",
     "TryHackMe/rooms/images/Screenshot from 2024-10-23 23-07-26.png",
     "etc/list/Hamlet.md",
-    "etc/list/A Wild Sheep Chase.md",
     "etc/list",
     "etc",
-    "etc/list/Освенцим. Нацисты и окончательное решение еврейского вопроса.md",
     "\"rooms",
     "rooms",
     "TryHackMe/rooms",
