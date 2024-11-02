@@ -3,7 +3,7 @@ https://315732.gitbook.io/315732-blog
 | Book                                                         | Author                              | Type       | Page or Timestamp |
 | ------------------------------------------------------------ | ----------------------------------- | ---------- | ----------------- |
 | Государство                                                  | Платон                              | Аудиокнига | Part 2: 0:00      |
-| Beginning Rust; Get Started with Rust 2021 Edition (2nd ed.) | Carlo Milanesi                      | Book       | 59                |
+| Beginning Rust; Get Started with Rust 2021 Edition (2nd ed.) | Carlo Milanesi                      | Book       | 74                |
 | Освенцим. Нацисты и окончательное решение еврейского вопроса | Лоуренс Рис                         | Книга      | 255               |
 | The Art of Happiness                                         | Epicurus                            | Book       | 32                |
 | Self-Made Man                                                | Norah Vincent                       | Book       | Completed         |
