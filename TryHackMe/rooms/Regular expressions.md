@@ -93,16 +93,77 @@ Match all of the following words: Cat, cats
 
 Match the following domain name: cat.xyz
 
-**flag: ``**
+**flag: `cat\.xyz`**
 
 Match all of the following domain names: cat.xyz, cats.xyz, hats.xyz
 
-**flag: ``**
+**flag: `[ch]ats?\.xyz`**
 
 Match every 4-letter string that doesn't end in any letter from n to z
 
-**flag: ``**
+**flag: `...[^n-z]`**
 
 Match bat, bats, hat, hats, but not rat or rats (use the hat symbol)
+
+**flag: `[^r]ats?`**
+
+---
+There are easier ways to match bigger charsets. For example, `\d` is used to match any **single** digit. Here's a reference:  
+`\d` matches a digit, like `9`  
+`\D` matches a non-digit, like `A` or `@`  
+`\w` matches an alphanumeric character, like `a` or `3`  
+`\W` matches a non-alphanumeric character, like `!` or `#`  
+`\s` matches a whitespace character (spaces, tabs, and line breaks)  
+`\S` matches everything else (alphanumeric characters and symbols)
+
+Note: Underscores `_` are included in the `\w` metacharacter and not in `\W`. That means that `\w` will match every single character in `test_file`.
+
+Often we want a pattern that matches many characters of a single type in a row, and we can do that with repetitions. For example, `{2}` is used to match the preceding character (or metacharacter, or charset) two times in a row. That means that `z{2}` will match exactly `zz`.
+
+Here's a reference for each repetition along with how many times it matches the preceding pattern:
+
+`{12}` - **exactly 12** times.  
+`{1,5}` - **1 to 5** times.  
+`{2,}` - **2 or more** times.  
+`*` - **0 or more** times.  
+`+` - **1 or more** times.
+
+Match the following word: catssss
+
+**flag: `cats{4}`**
+
+Match all of the following words (use the * sign): Cat, cats, catsss
+
+**flag: `[Cc]ats*`**
+
+Match all of the following sentences (use the + sign): regex go br, regex go brrrrrr
+
+**flag: `regex go br+`**
+
+Match all of the following filenames: ab0001, bb0000, abc1000, cba0110, c0000 (don't use a metacharacter)
+
+**flag: `[abc]{1,3}[01]{4}`**
+
+Match all of the following filenames: File01, File2, file12, File20, File99
+
+**flag: `[Ff]ile\d{1,2}`**
+
+Match all of the following folder names: kali tools, kali tools
+
+**flag: `kali\s+tools`**
+
+Match all of the following filenames: notes~, stuff@, gtfob#, lmaoo!
+
+**flag: `\w{5}\W`**
+
+Match the string in quotes (use the * sign and the \s, \S metacharacters): "2f0h@f0j0%!     a)K!F49h!FFOK"
+
+**flag: `\S*\s*\S*`**
+
+Match every 9-character string (with letters, numbers, and symbols) that doesn't end in a "!" sign
+
+**flag: `\S{8}[^!]`**
+
+Match all of these filenames (use the + symbol): .bash_rc, .unnecessarily_long_filename, and note1
 
 **flag: ``**
