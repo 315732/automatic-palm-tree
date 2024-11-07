@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c6b406c242cac3df",
+        "id": "9a7192ab1a198aa6",
         "type": "tabs",
         "children": [
           {
-            "id": "2b731f452a3a88d4",
+            "id": "d45853c0be0be163",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,18 +164,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b731f452a3a88d4",
+  "active": "d45853c0be0be163",
   "lastOpenFiles": [
+    "etc/List of book.md",
+    "TryHackMe/rooms/Google Dorking.md",
+    "TryHackMe/TryHackMe.md",
+    "etc/list/Переоценка ценностей.md",
     "Dev/dpkg building.md",
     "TryHackMe/rooms/Regular expressions.md",
     "Dev",
-    "TryHackMe/TryHackMe.md",
-    "TryHackMe/rooms/Google Dorking.md",
     "TryHackMe/rooms/Search Skills.md",
     "TryHackMe/rooms/Introductory Researching.md",
     "TryHackMe/rooms/HTTP in Detail.md",
     "TryHackMe/rooms/How Websites Work.md",
-    "etc/List of book.md",
     "TryHackMe/rooms/Starting Out In Cyber Sec.md",
     "TryHackMe/rooms/Learning Cyber Security.md",
     "TryHackMe/rooms/OpenVPN.md",
@@ -190,7 +191,6 @@
     "TryHackMe/rooms/Crack the hash.md",
     "TryHackMe/rooms/XSS.md",
     "TryHackMe/rooms/How to use TryHackMe.md",
-    "etc/list/Переоценка ценностей.md",
     "etc/list/images/Jean-Bernard_Restout_-_Diogenes_Asking_for_Alms.jpg",
     "etc/list/images",
     "Monsiau_-_Alexandre_et_Diogène.jpg",
