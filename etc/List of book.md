@@ -2,9 +2,9 @@ https://315732.gitbook.io/315732-blog
 
 | Book                                                         | Author                              | Type       | Page or Timestamp |
 | ------------------------------------------------------------ | ----------------------------------- | ---------- | ----------------- |
-| Beginning Rust; Get Started with Rust 2021 Edition (2nd ed.) | Carlo Milanesi                      | Book       | 74                |
-| Освенцим. Нацисты и окончательное решение еврейского вопроса | Лоуренс Рис                         | Книга      | 255               |
-| The Art of Happiness                                         | Epicurus                            | Book       | 32                |
+| Beginning Rust; Get Started with Rust 2021 Edition (2nd ed.) | Carlo Milanesi                      | Book       |                   |
+| Освенцим. Нацисты и окончательное решение еврейского вопроса | Лоуренс Рис                         | Книга      |                   |
+| The Art of Happiness                                         | Epicurus                            | Book       |                   |
 | Self-Made Man                                                | Norah Vincent                       | Book       | Completed         |
 | 1984                                                         | George Orwell                       | Book       | Completed         |
 | The Road to Wigan Pier                                       | George Orwell                       | Book       | Completed         |
