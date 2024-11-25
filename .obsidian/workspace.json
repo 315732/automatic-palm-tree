@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etc/List of book.md",
-                "mode": "source",
+                "file": "Сепарация как перестать зависеть от других людей.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List of book"
+              "title": "Сепарация как перестать зависеть от других людей"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "a61578764d4a9261",
   "lastOpenFiles": [
-    "etc/Music.md",
     "etc/List of book.md",
+    "Сепарация как перестать зависеть от других людей.md",
+    "etc/Music.md",
     "Суицид в стоицизме.md",
     "TryHackMe/rooms/Google Dorking.md",
     "TryHackMe/TryHackMe.md",
@@ -192,7 +193,6 @@
     "TryHackMe/rooms/Offensive Security Intro.md",
     "TryHackMe/rooms/OhSINT.md",
     "TryHackMe/rooms/Crack the hash.md",
-    "TryHackMe/rooms/XSS.md",
     "etc/list/images/Jean-Bernard_Restout_-_Diogenes_Asking_for_Alms.jpg",
     "etc/list/images",
     "Monsiau_-_Alexandre_et_Diogène.jpg",
