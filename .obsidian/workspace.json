@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etc/list/Суицид в стоицизме.md",
+                "file": "etc/List of book.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Суицид в стоицизме"
+              "title": "List of book"
             }
           }
         ]
@@ -166,10 +166,10 @@
   },
   "active": "a61578764d4a9261",
   "lastOpenFiles": [
+    "etc/list/Суицид в стоицизме.md",
     "etc/list/Сепарация как перестать зависеть от других людей.md",
     "etc/List of book.md",
     "etc/Music.md",
-    "etc/list/Суицид в стоицизме.md",
     "TryHackMe/rooms/Google Dorking.md",
     "TryHackMe/TryHackMe.md",
     "etc/list/Hamlet.md",
