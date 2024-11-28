@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f5c9265a7f8a326c",
+        "id": "ecde6f0d9e6d8f1d",
         "type": "tabs",
         "children": [
           {
-            "id": "a61578764d4a9261",
+            "id": "c603e911967c03ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,14 +164,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a61578764d4a9261",
+  "active": "c603e911967c03ec",
   "lastOpenFiles": [
+    "TryHackMe/rooms/Simple CTF.md",
+    "TryHackMe/TryHackMe.md",
+    "etc/List of book.md",
     "etc/list/Суицид в стоицизме.md",
     "etc/list/Сепарация как перестать зависеть от других людей.md",
-    "etc/List of book.md",
     "etc/Music.md",
     "TryHackMe/rooms/Google Dorking.md",
-    "TryHackMe/TryHackMe.md",
     "etc/list/Hamlet.md",
     "etc/list/Переоценка ценностей.md",
     "Dev/dpkg building.md",
@@ -192,7 +193,6 @@
     "TryHackMe/rooms/Defensive Security Intro.md",
     "TryHackMe/rooms/Offensive Security Intro.md",
     "TryHackMe/rooms/OhSINT.md",
-    "TryHackMe/rooms/Crack the hash.md",
     "etc/list/images/Jean-Bernard_Restout_-_Diogenes_Asking_for_Alms.jpg",
     "etc/list/images",
     "Monsiau_-_Alexandre_et_Diogène.jpg",

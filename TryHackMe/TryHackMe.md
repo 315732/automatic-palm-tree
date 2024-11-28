@@ -34,7 +34,7 @@
 | [[Fowsniff CTF]]              |             | Hack this machine and get the flag. There are lots of hints along the way and is perfect for beginners!                                                                                                      |
 | [[Google Dorking]]            |             | Explaining how Search Engines work and leveraging them into finding hidden content!                                                                                                                          |
 | [[Cyborg]]                    |             | A box involving encrypted archives, source code analysis and more.                                                                                                                                           |
-|                               |             |                                                                                                                                                                                                              |
+| [[Simple CTF]]                |             | Beginner level ctf                                                                                                                                                                                           |
 |                               |             |                                                                                                                                                                                                              |
 
 
