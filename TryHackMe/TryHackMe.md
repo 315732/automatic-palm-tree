@@ -35,7 +35,7 @@
 | [[Google Dorking]]            |             | Explaining how Search Engines work and leveraging them into finding hidden content!                                                                                                                          |
 | [[Cyborg]]                    |             | A box involving encrypted archives, source code analysis and more.                                                                                                                                           |
 | [[Simple CTF]]                |             | Beginner level ctf                                                                                                                                                                                           |
-|                               |             |                                                                                                                                                                                                              |
+| [[SOC Fundamentals]]          |             | Learn about the SOC team and their processes.                                                                                                                                                                |
 
 
 
