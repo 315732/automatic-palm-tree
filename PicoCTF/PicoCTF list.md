@@ -1,3 +1,8 @@
 - [[Verify]]
 - [[Scan Surprise]]
 - [[Binary Search]]
+- [[]]
+- [[]]
+- [[WebDecode]]
+- [[Unminify]]
+- [[Time Machine]]

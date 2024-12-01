@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etc/List of book.md",
-                "mode": "source",
+                "file": "PicoCTF/PicoCTF list.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List of book"
+              "title": "PicoCTF list"
             }
           }
         ]
@@ -166,12 +166,20 @@
   },
   "active": "e4c3f9f7414044cc",
   "lastOpenFiles": [
+    "Time Machine.md",
+    "Pasted image 20241201055801.png",
     "PicoCTF/PicoCTF list.md",
+    "Unminify.md",
+    "Pasted image 20241201055512.png",
+    "WebDecode.md",
+    "Pasted image 20241201055310.png",
+    "Pasted image 20241201055252.png",
+    "Pasted image 20241201055237.png",
+    "etc/List of book.md",
     "PicoCTF/PicoCTF list/Binary Search.md",
     "PicoCTF/PicoCTF list/images/Pasted image 20241130134712.png",
     "PicoCTF/PicoCTF list/Scan Surprise.md",
     "PicoCTF/PicoCTF list/images/Pasted image 20241130134006.png",
-    "etc/List of book.md",
     "etc/Music.md",
     "PicoCTF/PicoCTF list/Verify.md",
     "CTFTime/CTFTime.md",
@@ -196,17 +204,9 @@
     "TryHackMe/rooms/HTTP in Detail.md",
     "TryHackMe/rooms/How Websites Work.md",
     "TryHackMe/rooms/Starting Out In Cyber Sec.md",
-    "TryHackMe/rooms/Learning Cyber Security.md",
-    "TryHackMe/rooms/OpenVPN.md",
-    "TryHackMe/rooms/Tutorial.md",
     "etc/list/images/Jean-Bernard_Restout_-_Diogenes_Asking_for_Alms.jpg",
     "etc/list/images",
     "Monsiau_-_Alexandre_et_Diogène.jpg",
-    "etc/list/images/Diogenes_looking_for_a_man_-_attributed_to_JHW_Tischbein.jpg",
-    "TryHackMe/rooms/images/Screenshot from 2024-10-27 20-13-19.png",
-    "TryHackMe/rooms/images/Screenshot from 2024-10-27 19-50-10.png",
-    "TryHackMe/rooms/images/Screenshot from 2024-10-27 19-43-42.png",
-    "TryHackMe/rooms/images/Screenshot from 2024-10-23 23-56-29.png",
     "etc/list",
     "etc",
     "\"rooms",
