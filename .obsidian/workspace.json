@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/PicoCTF list.md",
-                "mode": "preview",
+                "file": "etc/List of book.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PicoCTF list"
+              "title": "List of book"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Careers in Cyber.md",
+                "file": "etc/List of book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Careers in Cyber"
+              "title": "Backlinks for List of book"
             }
           },
           {
@@ -166,16 +166,17 @@
   },
   "active": "e4c3f9f7414044cc",
   "lastOpenFiles": [
+    "etc/list/Сепарация как перестать зависеть от других людей.md",
+    "etc/List of book.md",
+    "PicoCTF/PicoCTF list.md",
     "Time Machine.md",
     "Pasted image 20241201055801.png",
-    "PicoCTF/PicoCTF list.md",
     "Unminify.md",
     "Pasted image 20241201055512.png",
     "WebDecode.md",
     "Pasted image 20241201055310.png",
     "Pasted image 20241201055252.png",
     "Pasted image 20241201055237.png",
-    "etc/List of book.md",
     "PicoCTF/PicoCTF list/Binary Search.md",
     "PicoCTF/PicoCTF list/images/Pasted image 20241130134712.png",
     "PicoCTF/PicoCTF list/Scan Surprise.md",
@@ -193,7 +194,6 @@
     "TryHackMe/TryHackMe.md",
     "TryHackMe/rooms/Simple CTF.md",
     "etc/list/Суицид в стоицизме.md",
-    "etc/list/Сепарация как перестать зависеть от других людей.md",
     "TryHackMe/rooms/Google Dorking.md",
     "etc/list/Hamlet.md",
     "etc/list/Переоценка ценностей.md",
